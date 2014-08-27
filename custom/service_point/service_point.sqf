@@ -1,10 +1,11 @@
 /*
-Vehicle Service Point by Axe Cop
-http://epochmod.com/forum/index.php?/topic/3935-release-vehicle-service-point-refuel-repair-rearm-script/
-Modifications by piggd
+Vehicle Service Point Rearm+ by piggd
 Email: dayzpiggd@gmail.com
 Website: http://dayzpiggd.enjin.com
 Dontaions Accepted via paypal to danpigg@yahoo.com
+Based on Vehicle Service Point (Refuel, Repair, Rearm) by Axe Cop
+http://epochmod.com/forum/index.php?/topic/3935-release-vehicle-service-point-refuel-repair-rearm-script/
+Refuel and Repair scripts are 100% Axe Cops work.  Rearm was rewritten to provide new rearm capabilities.
 */
 private ["_folder","_servicePointClasses","_maxDistance","_actionTitleFormat","_actionCostsFormat","_costsFree","_message","_messageShown","_refuel_enable","_refuel_costs","_refuel_updateInterval","_refuel_amount","_repair_enable","_repair_costs","_repair_repairTime","_rearm_enable","_rearm_costs","_lastVehicle","_lastRole","_fnc_removeActions","_fnc_getCosts","_fnc_actionTitle","_fnc_isArmed","_vehicleType","_vehicleName","_rearm_rearmTime"];
 // ---------------- CONFIG START ----------------
