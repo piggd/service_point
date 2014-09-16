@@ -2,7 +2,7 @@
 Vehicle Service Point Rearm+ by piggd
 Email: dayzpiggd@gmail.com
 Website: http://dayzpiggd.enjin.com
-Dontaions Accepted via paypal to danpigg@yahoo.com
+Donations Accepted via paypal to danpigg@yahoo.com
 Based on Vehicle Service Point (Refuel, Repair, Rearm) by Axe Cop
 http://epochmod.com/forum/index.php?/topic/3935-release-vehicle-service-point-refuel-repair-rearm-script/
 Refuel and Repair scripts are 100% Axe Cops work.  Rearm was rewritten to provide new rearm capabilities.
